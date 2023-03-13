@@ -1,7 +1,7 @@
 <div class="container pt-5">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom mt-5">
     <div class="container">
-  <a href="#" class="text-light">Andre Denis Syifa Nadia</a>
+  <a href="#" class="text-light"> Denis SPP</a>
   
   </div>
 </nav>

@@ -9,10 +9,10 @@
                 <div class="card-body">
                     <form action="index.php?aksi=login" method="post">
                         <div class="form-grup">
-                            <input type="text" name="username" class="form-control">
+                            <input type="text" placeholder="Username" name="username" class="form-control">
                         </div>
                         <div class="form-grup">
-                            <input type="password" name="password" class="form-control">
+                            <input type="password" placeholder="Password" name="password" class="form-control">
                         </div>
                         <button name="login" class="btn btn-primary" id="loginB">Login</button>
                     </form>
